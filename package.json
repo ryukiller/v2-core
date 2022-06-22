@@ -1,7 +1,7 @@
 {
   "name": "@ariswap/v2-core",
   "description": "🎛 Core contracts for the AriswapV2 protocol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://uniswap.org",
   "repository": {
     "type": "git",
